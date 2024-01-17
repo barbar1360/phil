@@ -1,4 +1,5 @@
 # Philosophical and life skill tips without proof
+Life tips and skills
 1. In doing anything, it is better to have only a glimpse of the result of that work. In other words, it is better not to provide the energy required for that work from the final result of that work.
 2. If we constantly check the expected end result while doing things, the progress of that activity may not be very favorable. Therefore, it is better to make decisions based on the final result and in the implementation, do based on the interests of that work.
 3. Being happy with something does not necessarily mean being sad with not having it.
